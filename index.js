@@ -14,7 +14,7 @@ simpleGitPromise.add('.')
             console.log('adding files failed');
         });
 // Commit files as Initial Commit
-simpleGitPromise.commit('Intial commit by simplegit')
+simpleGitPromise.commit('Updates from city')
     .then(
         (successCommit) => {
             console.log(successCommit);
