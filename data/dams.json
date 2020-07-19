@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "5a718945da714d69dc29e588",
+    "name": "Steenbras Lower",
+    "capacity": 33517
+  },
+
+  {
+    "_id": "5a7189570358a469d7daa3f3",
+    "name": "Steenbras Upper",
+    "capacity": 31767
+  },
+
+  {
+    "_id": "5a71896ada714d69dc29e589",
+    "name": "Theewaterskloof",
+    "capacity": 480188
+  },
+
+  {
+    "_id": "5a7189790358a469d7daa3f4",
+    "name": "Voëlvlei",
+    "capacity": 164095
+  },
+
+  {
+    "_id": "5a718987da714d69dc29e58a",
+    "name": "Wemmershoek",
+    "capacity": 58644
+  },
+  {
+    "_id": "5a719e7ef7563f692928e074",
+    "name": "Berg River",
+    "capacity": 130010
+  }
+]
