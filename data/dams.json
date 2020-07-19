@@ -28,6 +28,13 @@
     "name": "Wemmershoek",
     "capacity": 58644
   },
+
+  {
+    "_id": "5a7189930358a469d7daa3f5",
+    "name": "% Storage",
+    "capacity": 0
+  },
+
   {
     "_id": "5a719e7ef7563f692928e074",
     "name": "Berg River",
